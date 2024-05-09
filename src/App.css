@@ -1,0 +1,17 @@
+@keyframes changeColor {
+  0% {
+    background-color: #ff0000; /* Start color */
+  }
+  25% {
+    background-color: #ff9900; /* Mid color 1 */
+  }
+  50% {
+    background-color: #ffff00; /* Mid color 2 */
+  }
+  75% {
+    background-color: #33cc33; /* Mid color 3 */
+  }
+  100% {
+    background-color: #3366ff; /* End color */
+  }
+}
